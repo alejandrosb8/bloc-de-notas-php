@@ -1,5 +1,7 @@
 <?php
 
+$modo = '';
+
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $modo = $_POST['modo'];
     $nombre = $_POST['nombre'];
