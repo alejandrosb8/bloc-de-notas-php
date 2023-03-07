@@ -1,0 +1,7 @@
+Hola profe, ahora que lo pienso bien, si está leyendo este archivo es porque ya sabrá usar el bloc de notas, pero igualmente lo explicaré:
+
+El bloc tiene cuatro (4) o (IV) o también (four) modos, crear, abrir, guardar y borrar, creo que no hace falta explicar para qué sirve cada uno porque bueno, su nombre es bastante descriptivo, los archivos se trabajan en el formato .txt y no hace falta escribirlos en el input de nombre de archivo, ya que en la lista de abajo, al hacer clic en un archivo se copia automáticamente el nombre en el input de arriba para más comodidad, por último, si ocurre algún error se mostrará en un texto debajo del input de select.
+
+espero tenga una feliz mañana/tarde/noche
+
+Alejandro Andrés Sánchez
